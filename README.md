@@ -1,4 +1,4 @@
-# hello-genai
+# A GenAI app using Local LLM Runner
 
 A simple chatbot web application built in Go, Python and Node.js that connects to a local LLM service (llama.cpp) to provide AI-powered responses.
 
